@@ -1,5 +1,5 @@
 # Sprocket-Central-Project
-An interactive dashboard to highlight critical insights in the SPRocket Central's customer and transaction data
+An interactive dashboard to highlight critical insights in the SPRocket Central's customer and transaction data.
 
 Key findings to focus on this project: 
 * The trend in the data
